@@ -12,6 +12,9 @@ Classify air quality into standard AQI categories.
 Provide a simple and user-friendly prediction system.
 
 
+
+
+
 Machine Learning Workflow:
 
 Data collection and preprocessing.
