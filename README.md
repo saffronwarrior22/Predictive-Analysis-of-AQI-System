@@ -3,8 +3,11 @@ Air pollution has a significant impact on human health and the environment. This
 
 Objectives:
 Analyze historical air quality data.
+
 Predict AQI using machine learning models.
+
 Classify air quality into standard AQI categories.
+
 Provide a simple and user-friendly prediction system.
 
 Machine Learning Workflow:
